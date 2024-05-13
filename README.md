@@ -34,9 +34,6 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 ~~~
-Developed by: VARSHA A
-Register Number:212223220121
-
 module Boolean_min(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
@@ -55,6 +52,8 @@ and g2(t,x,y);
 and g3(u,w,z);
 or g4(f2,s,t,u);
 endmodule
+Developed by: VARSHA A(212223220121)
+
 ~~~
 
 ## RTL realization output
